@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "An elite, premium AI-powered task management platform featuring Kanban, Pomodoro timer, deeply integrated natural language processing, and beautiful dark mode aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
